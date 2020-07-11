@@ -1,0 +1,6 @@
+Função para remover acentos no Excel
+
+Para criar uma nova função, que remove acentos no Excel, pressione em seu teclado ALT + F11.
+Surgirá uma nova janela (editor Visual Basic). No menu  acesse INSERIR/MÓDULO, e cole o código em acensot.bas
+
+Após isso volte para a janela do Excel. Basta agora usar a função TiraAcento()
